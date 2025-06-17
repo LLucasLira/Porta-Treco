@@ -8,7 +8,7 @@ O projeto foi dividido em **4 partes**, facilitando a impressão em impressoras 
 
 ![image](https://github.com/user-attachments/assets/1d2ce7f9-d1cb-409d-8f4b-d4b9653aeece)
 
-## Itens que você pode organizar:
+## Itens para organizar:
 - Pasta e escova de dente
 - Fio dental
 - Cremes faciais
